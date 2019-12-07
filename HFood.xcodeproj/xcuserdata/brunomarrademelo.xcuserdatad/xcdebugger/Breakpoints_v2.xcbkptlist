@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "618D7546-3FF7-45F7-9C5C-CB461494B82C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C7D3F4D-41DA-4495-B077-A80F13880283"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HFood/PlaceTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "PlaceTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5C7D3F4D-41DA-4495-B077-A80F13880283 - 1015ee849f5d035d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HFood.PlaceTableViewCell.grade.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomarrademelo/Documents/HFood/HFood/PlaceTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5C7D3F4D-41DA-4495-B077-A80F13880283 - 3bcdbff26663cec9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HFood.PlaceTableViewCell.grade.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomarrademelo/Documents/HFood/HFood/PlaceTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "5C7D3F4D-41DA-4495-B077-A80F13880283 - 9f7001dc69ae2042"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HFood.PlaceTableViewCell.grade.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomarrademelo/Documents/HFood/HFood/PlaceTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "5C7D3F4D-41DA-4495-B077-A80F13880283 - 9c3289f468d2dd39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HFood.PlaceTableViewCell.grade.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomarrademelo/Documents/HFood/HFood/PlaceTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "5C7D3F4D-41DA-4495-B077-A80F13880283 - 72bb3680b9ef4aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HFood.PlaceTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; HFood.PlaceTableViewCell"
+                  moduleName = "HFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomarrademelo/Documents/HFood/HFood/PlaceTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  uuid = "5C7D3F4D-41DA-4495-B077-A80F13880283 - 3f2ed74117b839a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HFood.PlaceTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HFood.PlaceTableViewCell&gt;"
+                  moduleName = "HFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomarrademelo/Documents/HFood/HFood/PlaceTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
